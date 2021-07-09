@@ -1,4 +1,5 @@
-# flutter_application
+# Login App
+Practice Bloc, login, Equatable
 
 ## Structure
 - assets
