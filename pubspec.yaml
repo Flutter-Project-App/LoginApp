@@ -20,6 +20,13 @@ dependencies:
   flutter_svg:
   # Local Persist
   shared_preferences:
+  equatable:
+  uuid:
+  formz:
+  authentication_repository:
+    path: packages/authentication_repository
+  user_repository:
+    path: packages/user_repository
 
 dev_dependencies:
   flutter_test:
@@ -27,6 +34,7 @@ dev_dependencies:
   build_runner:
   json_serializable:
   freezed:
+  mocktail:
 flutter:
   uses-material-design: true
   assets:
